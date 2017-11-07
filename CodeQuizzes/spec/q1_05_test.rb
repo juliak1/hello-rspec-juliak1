@@ -1,6 +1,6 @@
-require_relative '../lib/q1_01'
+require_relative '../lib/q1_05'
 
-  RSpec.describe '../lib/q1_01.rb' do
+  RSpec.describe '../lib/q1_05.rb' do
     describe "#start_with_c?" do
       it "returns true if all words begin with 'c'" do
         str = "cool captain crunch cap"
